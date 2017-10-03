@@ -1,0 +1,19 @@
+{
+  "name": "dowrapper",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the Digital Ocean API Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SapioBeasley/doWrapper.git"
+  },
+  "author": "Andreas Beasley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SapioBeasley/doWrapper/issues"
+  },
+  "homepage": "https://github.com/SapioBeasley/doWrapper#readme"
+}
