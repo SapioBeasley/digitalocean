@@ -1,4 +1,4 @@
-var Digitalocean = require('./ssh/keyManage');
+var Digitalocean = require('./src/digitalocean');
 
 var digitalocean = new digitalocean('66653374bccbb2f1577f9752df52cafbcedd852acc399184131b4ff59a3a1b81');
 
